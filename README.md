@@ -2,14 +2,14 @@
 
 ###
 
-<h4 align="left">Héctor</h4>
+<h4 align="left">Estudiante de Ingeniería Informática, desarrollador curioso y apasionado por la tecnología.</h4>
 
 ###
 
 <div align="left">
+  <a href="[https://www.linkedin.com/in/tu-usuario](https://www.linkedin.com/in/h%C3%A9ctor-molina-garde-b24172369?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7HUgO5OPTOemuAymDjdIww%3D%3D)" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="40" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="40" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="40" alt="gmail logo"  />
+      </a>
 </div>
 
 ###
@@ -50,6 +50,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
 </div>
 
+###
+
+<h2 align="left">📊 Estadísticas de GitHub</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Toriomg&show_icons=true&theme=tokyonight&locale=es" height="190" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toriomg&layout=compact&theme=tokyonight&locale=es" height="190" alt="top langs" />
+</div>
 
 
 ###
