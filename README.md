@@ -61,6 +61,6 @@
 
 <br clear="both">
 
-<img align="left" src="https://profile-counter.glitch.me/Toriomg/count.svg?"  />
+<img align="right" src="https://profile-counter.glitch.me/Toriomg/count.svg?"  />
 
 ###
