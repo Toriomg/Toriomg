@@ -14,14 +14,6 @@
 
 ###
 
-<h2 align="left">Sobre mí</h2>
-
-###
-
-<p align="left">Estudiante.</p>
-
-###
-
 <h2 align="left">Mis Skills.</h2>
 
 ###
@@ -55,7 +47,6 @@
 <h2 align="left">📊 Estadísticas de GitHub</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Toriomg&show_icons=true&theme=tokyonight&locale=es" height="190" alt="github stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Toriomg&layout=compact&theme=tokyonight&locale=es" height="190" alt="top langs" />
 </div>
 
