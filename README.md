@@ -8,7 +8,7 @@
 
 ### 🔭 About Me
 - 🦀 Interested in **modern C++** and learning **Rust** to build memory-safe and fast applications.
-- 🚀 Mobile developer for 
+- 🚀 Developing https://openuc3m.com/
 - 🐧 Arch Linux user (btw).
 
 ### Languages
@@ -30,10 +30,9 @@
 [//]: ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 [//]: ![Cuda](https://img.shields.io/badge/-Cuda-000?&logo=nvidia)
 ## Frameworks
-![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React](https://img.shields.io/badge/-ReactNative-000?&logo=React)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=OpenGL)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 
 ## DevOps and Tools
 
@@ -56,6 +55,8 @@
 ### Bunch of things I touched
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
-![Debian](https://img.shields.io/badge/-Debian-000?&logo=Debian)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Bison](https://img.shields.io/badge/-Bison-000?&logo=gnu)
