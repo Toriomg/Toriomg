@@ -54,9 +54,10 @@
 
 ### Bunch of things I touched
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
+![Lisp](https://img.shields.io/badge/-Lisp-000?&logo=commonlisp)
 ![Numpy](https://img.shields.io/badge/-Numpy-000?&logo=Numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-000?&logo=Ubuntu)
+![Bison](https://img.shields.io/badge/-Bison-000?&logo=gnu)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Bison](https://img.shields.io/badge/-Bison-000?&logo=gnu)
