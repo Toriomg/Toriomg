@@ -8,7 +8,7 @@
 
 ### 🔭 About Me
 - 🦀 Interested in **modern C++** and learning **Rust** to build memory-safe and fast applications.
-- 🚀 Developing [OpenUC3M](https://openuc3m.com/)
+- 🚀 Developing [OPEN UC3M](https://openuc3m.com/)
 - 🐧 Arch Linux user (btw).
 
 ### Languages
@@ -52,7 +52,7 @@
 [//]: ![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 [//]: ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
-### Other technologies I've worked with
+## Other technologies I've worked with
 
 ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)
 ![Lisp](https://img.shields.io/badge/-Lisp-000?&logo=commonlisp)
@@ -62,5 +62,3 @@
 ![Bison](https://img.shields.io/badge/-Bison-000?&logo=gnu)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSER&show_icons=true&theme=tokyonight)
