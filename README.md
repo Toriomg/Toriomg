@@ -30,7 +30,7 @@
 [//]: ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
 [//]: ![Cuda](https://img.shields.io/badge/-Cuda-000?&logo=nvidia)
 ## Frameworks
-![ReactNative](https://img.shields.io/badge/-React-000?&logo=ReactNative)
+![ReactNative](https://img.shields.io/badge/-ReactNative-000?&logo=React)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=OpenGL)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
 
