@@ -8,7 +8,8 @@
 
 ### 🔭 About Me
 - 🦀 Interested in **modern C++** and learning **Rust** to build memory-safe and fast applications.
-- 🚀 Developing [OPEN UC3M](https://openuc3m.com/)
+- 🎓 Developed [OPEN UC3M](https://openuc3m.com/)
+[//]: - 🚀
 - 🐧 Arch Linux user (btw).
 
 ### Languages
@@ -33,6 +34,7 @@
 ![ReactNative](https://img.shields.io/badge/-React-000?&logo=React)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-000?&logo=OpenGL)
 ![Django](https://img.shields.io/badge/-Django-000?&logo=Django)
+![Astro](https://img.shields.io/badge/-Astro-000?&logo=Astro)
 
 ## DevOps and Tools
 
