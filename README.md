@@ -9,7 +9,6 @@
 ### 🔭 About Me
 - 🦀 Interested in **modern C++** and learning **Rust** to build memory-safe and fast applications.
 - 🎓 Developed [OPEN UC3M](https://openuc3m.com/)
-[//]: - 🚀
 - 🐧 Arch Linux user (btw).
 
 ### Languages
